@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Marathi&family=Ubuntu&display=swap');
+
+.container{
+    font-family: 'Tiro Devanagari Marathi', serif;
+    font-family: 'Ubuntu', sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+ 
+}
+
+.heading{
+    border:solid 1px;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 3px 3px  black;
+    /* width: 30%; */
+  
+}
+.headd{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    row-gap: 10px;
+   
+}
+.id{
+    display: flex;
+    flex-direction: column;
+}
